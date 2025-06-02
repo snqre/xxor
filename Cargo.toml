@@ -5,3 +5,5 @@ edition = "2024"
 license = "Apache-2.0"
 description = "An enum for expressing two valid outcomes: XOR<This, That> means one or the other, never both."
 readme = "readme.md"
+repository = "https://github.com/snqre/xxor/"
+keywords = ["lib", "enum", "no-std", "util"]
